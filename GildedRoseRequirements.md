@@ -1,6 +1,18 @@
 ======================================
-Gilded Rose Requirements Specification
-======================================
+
+## Introduction
+
+This Kata is a refactoring exercise for training purposes. We will be refactoring the code base of system for a simulated inn called **The Gilded Rose**.
+
+The Gilded Rose Requirements Specifications below explains what the code is for. As with any legacy code, the general approach to solve this is to:
+
+1. Add the missing tests
+2. Refactor the code
+3. Implement the new feature
+
+---
+
+## Gilded Rose Requirements Specification (Case)
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
@@ -36,3 +48,9 @@ for you).
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a
 legendary item and as such its Quality is 80 and it never alters.
+
+---
+
+## Credits
+
+Base code taken from [this repository](https://github.com/emilybache/GildedRose-Refactoring-Kata)
