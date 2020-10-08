@@ -1,5 +1,3 @@
-======================================
-
 ## Introduction
 
 This Kata is a refactoring exercise for training purposes. We will be refactoring the code base of system for a simulated inn called **The Gilded Rose**.
