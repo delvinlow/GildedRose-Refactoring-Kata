@@ -13,6 +13,9 @@ public class TypedItemFactory {
             case "Sulfuras, Hand of Ragnaros":
                 typedItem = new LegendaryItem(item);
                 break;
+            case "Conjured Mana Cake":
+                typedItem = new ConjuredItem(item);
+                break;
             default:
                 typedItem = new OrdinaryItem(item);
         }
