@@ -1,16 +1,18 @@
 ## Introduction
 
-This Kata is a refactoring exercise for training purposes. We will be refactoring the code base of system for a simulated inn called **The Gilded Rose**.
+This Kata is a refactoring exercise for training purposes. 
 
-The Gilded Rose Requirements Specifications below explains what the code is for. As with any legacy code, the general approach to solve this is to:
+The exercise involves refactoring the code base of an existing system for a made-up inn called **The Gilded Rose**.
+
+The Gilded Rose Requirements Specifications below explains the requirements. As with refactoring any legacy code, the general approach to solve this is to:
 
 1. Add the missing tests
 2. Refactor the code
-3. Implement the new feature
+3. Implement the new features
 
 ---
 
-## Gilded Rose Requirements Specification (Case)
+## Gilded Rose Business Case & Requirements
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
