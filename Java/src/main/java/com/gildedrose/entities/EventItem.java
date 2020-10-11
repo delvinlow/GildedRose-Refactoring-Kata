@@ -1,6 +1,6 @@
 package com.gildedrose.entities;
 
-public class EventItem extends TypedItem {
+class EventItem extends TypedItem {
     public EventItem(Item item) {
         super(item.name, item.sellIn, item.quality);
     }

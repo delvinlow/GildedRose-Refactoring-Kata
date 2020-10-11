@@ -1,6 +1,6 @@
 package com.gildedrose.entities;
 
-public class ConjuredItem extends TypedItem {
+class ConjuredItem extends TypedItem {
     public ConjuredItem(Item item) {
         super(item.name, item.sellIn, item.quality);
     }

@@ -1,6 +1,6 @@
 package com.gildedrose.entities;
 
-public class OrdinaryItem extends TypedItem {
+class OrdinaryItem extends TypedItem {
     public OrdinaryItem(Item item) {
         super(item.name, item.sellIn, item.quality);
     }
